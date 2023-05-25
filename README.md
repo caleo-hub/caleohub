@@ -4,9 +4,9 @@ I'm a Machine Learning Engineer based in Salvador, Bahia, Brazil. I specialize i
 
 ## 🧑‍💻 Work Experience
 
-I have been working with Ford Motor Company, where I've led a team to enhance Over The Air Analytics using Connected Vehicle Data. This project was pivotal in improving diagnostic capabilities and user experience for connected vehicles.
+I have been working with Ford Motor Company, where I've led a team using Connected Vehicle Data. This project was pivotal in improving diagnostic capabilities and user experience for connected vehicles.
 
-Additionally, I've gained extensive experience in audio data, specifically related to Emergency Vehicle Detection, through my research work with the Federal University Digital Audio Processing Group. 
+Additionally, I've gained extensive experience in audio data through my research work with the Federal University Digital Audio Processing Group. 
 
 ## 🔭 Current Research 
 
